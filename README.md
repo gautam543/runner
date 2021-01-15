@@ -1,2 +1,3 @@
-# runner
-monkey go happy run infinate
+# Infinite-Runner-using-camera
+
+Monkey Go Happy using Camera
